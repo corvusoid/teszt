@@ -1,0 +1,1 @@
+ez egy teszt readme file.
